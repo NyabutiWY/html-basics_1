@@ -156,7 +156,7 @@ html {
   gap: 4.8rem;
 }
 .sticky .header {
-  position: sticky;
+  position: fixed;
   top: 0;
   bottom: 0;
   width: 95%;
