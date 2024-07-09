@@ -1,3 +1,4 @@
+![Omnifood Logo](./background.png)
 # Omnifood Project
 
 ## Project Overview
